@@ -1,0 +1,5 @@
+{
+  "name": "TikFlow Elite",
+  "description": "Nền tảng tải video TikTok 4K/HD không logo với trải nghiệm cao cấp, tinh tế và tốc độ vượt trội.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"]
+}
